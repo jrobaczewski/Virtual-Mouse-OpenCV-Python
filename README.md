@@ -1,7 +1,7 @@
 # Virtual-Mouse-OpenCV-Python
 
-A mouse controller that uses a webcam. If you want to move the mouse you have to pull out your index finger. 
-When you want to press the left mouse button, you need to connect your index and middle fingers.
+A mouse controller that uses a webcam. If you want to move the mouse you have to pull out your index finger. When you want to press the left mouse button, you need to connect your index and middle fingers. 
+In the project I used technologies such as python, opencv and autopy.
 
 
 
